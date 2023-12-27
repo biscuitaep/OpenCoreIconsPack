@@ -2,8 +2,13 @@
 ⚪️ Modern Icons Pack For Open Core! ⚪️
 
 
+
+<img src='https://github.com/thebiscuitaep/OpenCoreIconsPack/blob/main/Opencore%20Boot%20Menu%20Icons%20Pack%20by%20thebiscuit/png/macOS/HardDrive%20-%20Sonoma.png' width='100'><img src='https://github.com/thebiscuitaep/OpenCoreIconsPack/blob/main/Opencore%20Boot%20Menu%20Icons%20Pack%20by%20thebiscuit/png/macOS/HardDrive%20-%20Ventura.png' width='100'><img src='https://github.com/thebiscuitaep/OpenCoreIconsPack/blob/main/Opencore%20Boot%20Menu%20Icons%20Pack%20by%20thebiscuit/png/macOS/HardDrive%20-%20Monterey.png' width='100'><img src='https://github.com/thebiscuitaep/OpenCoreIconsPack/blob/main/Opencore%20Boot%20Menu%20Icons%20Pack%20by%20thebiscuit/png/macOS/HardDrive%20-%20Big Sur_.png' width='100'><img src='https://github.com/thebiscuitaep/OpenCoreIconsPack/blob/main/Opencore%20Boot%20Menu%20Icons%20Pack%20by%20thebiscuit/png/macOS/HardDrive%20-%20Catalina.png' width='100'><img src='https://github.com/thebiscuitaep/OpenCoreIconsPack/blob/main/Opencore%20Boot%20Menu%20Icons%20Pack%20by%20thebiscuit/png/macOS/HardDrive%20-%20Mojave.png' width='100'><img src='https://github.com/thebiscuitaep/OpenCoreIconsPack/blob/main/Opencore%20Boot%20Menu%20Icons%20Pack%20by%20thebiscuit/png/macOS/HardDrive%20-%20High Sierra.png' width='100'><img src='https://github.com/thebiscuitaep/OpenCoreIconsPack/blob/main/Opencore%20Boot%20Menu%20Icons%20Pack%20by%20thebiscuit/png/macOS/HardDrive%20-%20Sierra.png' width='100'><img src='https://github.com/thebiscuitaep/OpenCoreIconsPack/blob/main/Opencore%20Boot%20Menu%20Icons%20Pack%20by%20thebiscuit/png/macOS/HardDrive%20-%20El Capitan.png' width='100'>
+
+<img src='https://github.com/thebiscuitaep/OpenCoreIconsPack/blob/main/Opencore%20Boot%20Menu%20Icons%20Pack%20by%20thebiscuit/png/Windows/Windows%20-%20Windows 10.png' width='100'><img src='https://github.com/thebiscuitaep/OpenCoreIconsPack/blob/main/Opencore%20Boot%20Menu%20Icons%20Pack%20by%20thebiscuit/png/Windows/Windows%20-%20Windows 11.png' width='100'>
 ⠀⠀⠀
 ⠀
+
 ⠀
 ## ❓Usage❓
 
@@ -43,5 +48,5 @@
 
 > [!IMPORTANT]
  Restart Your PC 
-  
-  Please Like My [Video](https://www.youtube.com/@thebiscuitaep/featured)).
+> 
+> Please Like My [Video](https://www.youtube.com/@thebiscuitaep/featured) :)
